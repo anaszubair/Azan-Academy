@@ -1,0 +1,10 @@
+{
+  "description": "Create and manage simple applications effortlessly with this user-friendly platform designed for individuals and small businesses looking to streamline their processes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
